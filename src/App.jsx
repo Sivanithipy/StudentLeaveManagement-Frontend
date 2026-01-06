@@ -1,11 +1,7 @@
 import LeaveList from "./pages/LeaveList";
 
 function App() {
-  return (
-    <div>
-      <LeaveList />
-    </div>
-  );
+  return <LeaveList />;
 }
 
 export default App;
